@@ -1,0 +1,15 @@
+body {
+  background-color: purple;
+  color : orange;
+}
+
+/* commentaire css */
+
+.first_class {
+  background-color: yellow;
+  color: red;
+}
+
+#first_id {
+  background-color: red;
+}
