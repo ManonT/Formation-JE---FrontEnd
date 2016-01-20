@@ -1,0 +1,85 @@
+body{
+  background-color: #EFE9F6;
+}
+
+#presentation {
+  display: inline-block;
+  padding: 5px;
+  padding-left: 20px;
+  font-family: serif;
+  text-align:justify;
+  font-size: 20px;
+  background-color:#f4f4f4;
+  border : 2px solid #993366;
+  margin-top: 25px; //espace entre les rubriques
+  margin-left: 25px;
+}
+#photo img {
+  width: 120px;
+}
+#photo {
+  float: left;
+}
+#photo, #pres {
+  display: inline-block;
+}
+#info, #logo {
+  display: block;
+}
+#logo a {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+#formation {
+  display: inline-block;
+  padding: 5px;
+  padding-left: 20px;
+  font-family: serif;
+  text-align:justify;
+  font-size: 15px;
+  background-color:#f4f4f4;
+  border : 2px solid #993366;
+  margin-top: 25px; //espace entre les rubriques
+  margin-left: 25px;
+}
+
+#experience {
+  display: inline-block;
+  padding: 5px;
+  padding-left: 20px;
+  font-family: serif;
+  text-align:justify;
+  font-size: 15px;
+  background-color:#f4f4f4;
+  border : 2px solid #993366;
+  margin-top: 25px; //espace entre les rubriques
+  margin-left: 25px;
+}
+
+#perso {
+  display: inline-block;
+  padding: 5px;
+  font-family: serif;
+  text-align:justify;
+  font-size: 15px;
+  background-color:#f4f4f4;
+  border : 2px solid #993366;
+  margin-top: 25px; //espace entre les rubriques
+}
+
+.miniature {
+  display: inline-block;
+  padding: 5px;
+  font-family: serif;
+  text-align:justify;
+  font-size: 15px;
+  background-color:#f4f4f4;
+  border : 2px solid #993366;
+  margin-top: 35px; //espace entre les rubriques
+}
+
+
+footer {
+  margin-top: 200px;
+}

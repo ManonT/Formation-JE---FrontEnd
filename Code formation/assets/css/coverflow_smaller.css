@@ -1,62 +1,62 @@
-ul{
-    width: 1200px;
-    padding: 0;
-    perspective: 500px;
-    margin-top: 20px;
-}
-ul li img {
-  width: 175px;
-  height: 140px;
-}
-ul li{
-    display: inline-block;
+
+  ul {
+      width: 1200px;
+      padding: 0;
+      perspective: 500px;
+      margin-top: 20px;
+  }
+  ul li img {
     width: 175px;
     height: 140px;
-    transform: rotateY(45deg);
-    margin-right: -15px;
-    transition: all .45s;
-    position: relative;
-    z-index: 50;
-    border: solid 1px purple;
-}
-/* l'element central */
-ul li:nth-child(3){
-    z-index: 55;
-    transform: rotateY(0deg) scale(1.2);
-}
-/* les elements qui suivent l'element central */
-ul li:nth-child(3) ~ li{
-    transform: rotateY(-45deg);
-}
-/* l'élément survolé */
-ul li:hover{
-    transform: rotateY(0deg) scale(1.2);
-}
-/* les elements qui suivent l'element survole */
-ul li:hover ~ li{
-    transform: rotateY(-45deg);
-}
-/* les éléments survolés */
-ul li:hover, ul li:nth-child(3) ~ li:hover{
-    transform: rotateY(0deg) scale(1.2);
-}
-/* les éléments survolés */
-ul li:hover, ul li:first-child:hover, ul li:nth-child(3) ~ li:hover{
-    z-index: 60;
-}
-/* les elements non survoles, lors du survol du parent */
-ul:hover li:not(:hover){
-    transform: rotateY(45deg);
-}
-/* les elements qui suivent l'element survole */
-ul:hover li:hover ~ li{
-    transform: rotateY(-45deg);
-}
-/* les elements pairs */
-ul li:nth-child(odd){
-    background: crimson;
-}
-/* z-index du premier et dernier element (derrière) */
-ul li:first-child, ul li:last-child{
-    z-index: 45;
-}
+  }
+  ul li{
+      display: inline-block;
+      width: 175px;
+      height: 140px;
+      transform: rotateY(45deg);
+      margin-right: -15px;
+      transition: all .45s;
+      position: relative;
+      z-index: 50;
+  }
+  /* l'element central */
+  ul li:nth-child(3){
+      z-index: 55;
+      transform: rotateY(0deg) scale(1.2);
+  }
+  /* les elements qui suivent l'element central */
+  ul li:nth-child(3) ~ li{
+      transform: rotateY(-45deg);
+  }
+  /* l'élément survolé */
+  ul li:hover{
+      transform: rotateY(0deg) scale(1.2);
+  }
+  /* les elements qui suivent l'element survole */
+  ul li:hover ~ li{
+      transform: rotateY(-45deg);
+  }
+  /* les éléments survolés */
+  ul li:hover, ul li:nth-child(3) ~ li:hover{
+      transform: rotateY(0deg) scale(1.2);
+  }
+  /* les éléments survolés */
+  ul li:hover, ul li:first-child:hover, ul li:nth-child(3) ~ li:hover{
+      z-index: 60;
+  }
+  /* les elements non survoles, lors du survol du parent */
+  ul:hover li:not(:hover){
+      transform: rotateY(45deg);
+  }
+  /* les elements qui suivent l'element survole */
+  ul:hover li:hover ~ li{
+      transform: rotateY(-45deg);
+  }
+  /* les elements pairs */
+  ul li:nth-child(odd){
+      background: crimson;
+  }
+  /* z-index du premier et dernier element (derrière) */
+  ul li:first-child, ul li:last-child{
+      z-index: 45;
+  }

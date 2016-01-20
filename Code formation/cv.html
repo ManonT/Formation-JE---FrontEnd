@@ -1,11 +1,13 @@
 <html>
   <head>
     <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title> CV </title>
 
     <!-- feuille de style -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="assets/css/coverflow_smaller.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/css/portfolio.css" rel="stylesheet" type="text/css"/>
   </head>
 
   <body>
@@ -13,64 +15,118 @@
       <div class="col-sm-offset-1"> <h1> Bonjour ! <small> Bienvenue sur mon CV. </small> </h1> </div>
     </header>
 
-    <center>
-      <div id="coverflow_sm">
-        <ul>
-          <li> <a href="#"> <img src="assets/img/page_ecriture.jpg"/> </a> </li>
-          <li> <a href="#"> <img src="assets/img/page_certificat.jpg"/> </a> </li>
-          <li> <a href="cv.html"> <img src="assets/img/page_cv.jpg"/> </a> </li>
-          <li> <a href="#"> <img src="assets/img/page_LCG.jpg"/> </a> </li>
-          <li> <a href="#"> <img src="assets/img/page_voyage.jpg"/> </a> </li>
-        </ul>
-      </div>
-    </center>
-
-    <fieldset>
-      <div id="presentation">
-        <div id="photo" class="form-group"> <img src="assets/img/photo.jpg"> </div>
-        <div id="info" class="form-group col-md-3">
-          <p>
-            Thibon </br>
-            Manon </br>
-            manon.thibon@isep.fr </br>
-          </p>
+    <div class="row">
+      <center>
+        <div id="coverflow_sm">
+          <ul>
+            <li> <a href="#"> <img src="assets/img/page_ecriture.jpg"/> </a> </li>
+            <li> <a href="#"> <img src="assets/img/page_certificat.jpg"/> </a> </li>
+            <li> <a href="cv.html"> <img src="assets/img/page_cv.jpg"/> </a> </li>
+            <li> <a href="projet.html"> <img src="assets/img/page_LCG.jpg"/> </a> </li>
+            <li> <a href="#"> <img src="assets/img/page_voyage.jpg"/> </a> </li>
+          </ul>
         </div>
-      </div>
-    </fieldset>
+      </center>
+    </div><!-- /row -->
 
-    <fieldset>
-    <legend> Formations et Compétences </legend>
-      <div id="formation">
+    <div class="row">
+      <div id="presentation" class="col-md-4 col-md-offset-1">
+        <div id="photo" class="form-group"> <img src="assets/img/photo.jpg"> </div>
+        <div id="pres" class="form-group col-md-6">
+          <div id="info">
+            <p>
+              Thibon </br>
+              Manon </br>
+              manon.thibon@isep.fr </br>
+            </p>
+          </div>
+          <div id="logo">
+            <a href="https://fr.linkedin.com/in/manon-thibon-a37320105"> <img src="assets/img/icone_linkedin.png"/> </a>
+            <a href="https://github.com/ManonT"> <img src="assets/img/icone_github.png"/> </a>
+          </div>
+        </div>
+      </div><!-- /col -->
+
+      <div id="formation" class="col-md-5 col-md-offset-1">
         <p>
-          2013-2015 : Formation en Classe Préparatoire pour les Grandes Ecoles, filière TSI,
-          au Lycée Jean-Baptiste Dumas, (30) </br>
-          2010-2013 : Baccalauréat Sciences et Techniques de Laboratoire (STL) spécialité
-          Sciences Physiques et Chimiques de Laboratoire, diplôme obtenu avec mention Bien au Lycée Les
-          Catalins, (26) </br>
-          2012 : Obtention du Certificat de compétences de citoyen de sécurité civile, Prévention et Secours
-          Civiques de niveau 1, au Lycée Les Catalins, (26) </br>
-          2010 : Brevet des collèges, obtenu avec mention Bien au Collège Léonce Vieljeux, (07) </br>
-          2007, 2008, 2009 : Obtention des Galops 1,2 et 3 (diplôme  d’équitation), (07) </br>
+          <h3> Formations et Compétences </h3>
+          <strong>2015 :</strong> Formation en cycle ingénieur, ISEP, (75) </br>
+          <strong>2015 :</strong> Formation PMG (réserviste gendarmerie), (01) </br>
+          <strong>2013-2015 :</strong> Formation en CPGE, filière TSI, (30) </br>
+          <strong>2010-2013 :</strong> Baccalauréat STL, spécialité SPCL, (26) </br>
+          <strong>2012 :</strong> Obtention du Certificat PSC1 (secourisme), (26) </br>
+          <strong>2010 :</strong> Brevet des collèges, (07) </br>
+          <strong>2007, 2008, 2009 :</strong> Obtention des Galops 1,2 et 3 (diplôme  d’équitation), (07) </br>
+        </p>
+      </div><!-- /col -->
+    </div><!-- /row --> </br>
+
+    <div class="row">
+      <div id="experience" class="col-md-6 col-md-offset-1">
+        <p>
+          <h3> Expériences professionelles </h3>
+          <strong>Juillet, Août 2014 :</strong> Employée à l’ADMR, (aide à domicile), (07) </br>
+          <strong>Décembre 2012, 2013, 2014 :</strong> Service du repas annuel des personnes du troisième âge, (07)</br>
+          <strong>Juillet, Août 2012 :</strong> Vendeuse dans une Boulangerie, (07) </br>
+          <strong>2010 :</strong> Stage dans un Laboratoire d'Analyse Médicale, (07) </br>
         </p>
       </div>
-    </fieldset>
+
+        <div id="perso" class="col-md-3 col-md-offset-1">
+            <ol class="nav nav-pills nav-stacked col-md-4">
+              <li role="presentation" class="active"><a href="#sport" data-toggle="tab">Sport</a></li>
+              <li role="presentation"><a href="#activite" data-toggle="tab">Activité</a></li>
+              <li role="presentation"><a href="#passion" data-toggle="tab">Passion</a></li>
+              <li role="presentation"><a href="#interet" data-toggle="tab">Intérêt</a></li>
+            </ol>
+            <div class="tab-pane active" id="sport">
+              <p>Equitation (9 ans, diplômée)</br>
+                Musculation (5 ans)</br>
+                Bolas (2 ans)</br>
+                Rugby (2 ans)</br>
+                Boxe (2 ans)</br>
+                Zumba (1 ans)</br>
+                Randonnée</p>
+            </div>
+            <div class="tab-content">
+              <div class="tab-pane" id="activite">
+                <p>Ecriture</br>
+                  Web Design</br>
+                  Club Robotique pour la Coupe de France</p>
+              </div>
+              <div class="tab-pane" id="passion">
+                <p>Culture Asiatique</br>
+                  Voyage</br>
+                  Robotique</p>
+              </div>
+              <div class="tab-pane" id="interet">
+                <p>Thriller et roman policier</br>
+                  Nouvelles technologies</br>
+                  Musique de tout genre</p>
+              </div>
+            </div><!-- /tab-content -->
+        </div><!-- /col -->
+      </div><!-- /row -->
 
     <footer>
-      <nav class="navbar navbar-default navbar-fixed-bottom navbar-left">
-        <div class="container">
-          <a href="index.html"> Accueil </a>
-          <a href="cv.html"> CV </a>
-          <a href="#"> Projet </a>
-          <a href="#"> Certificat </a>
-          <a href="#"> Ecriture </a>
-          <a href="#"> Voyage </a>
-        </div>
-      </nav>
+      <div class="row">
+        <nav class="navbar navbar-default navbar-fixed-bottom navbar-left">
+          <div class="container">
+            <a href="index.html"> Accueil </a>
+            <a href="cv.html"> CV </a>
+            <a href="projet.html"> Projet </a>
+            <a href="#"> Certificat </a>
+            <a href="#"> Ecriture </a>
+            <a href="#"> Voyage </a>
+          </div><!-- /container -->
+        </nav>
+      </div><!-- /row -->
     </footer>
 
     <!-- Appel à un fichier Javascript -->
     <script src="https://ajax.googleapis.com/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js" type="text/javascript"> </script>
+    <script src="assets/js/vertT.js" type="text/javascript"> </script>
 
   </body>
 </html>
