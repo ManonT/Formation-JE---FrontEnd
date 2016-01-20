@@ -2,12 +2,16 @@ ul{
     width: 1200px;
     padding: 0;
     perspective: 500px;
-    margin-top: 120px;
+    margin-top: 20px;
+}
+ul li img {
+  width: 175px;
+  height: 140px;
 }
 ul li{
     display: inline-block;
-    width: 250px;
-    height: 200px;
+    width: 175px;
+    height: 140px;
     transform: rotateY(45deg);
     margin-right: -15px;
     transition: all .45s;
