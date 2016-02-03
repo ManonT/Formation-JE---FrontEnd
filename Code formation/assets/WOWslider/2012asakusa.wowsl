@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>23</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>2012asakusa</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>slices</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/dark_matter/</ImageTemplate>
+            <ImageTemplateName>Dark Matter</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/wamp/www/GitHub/Formation-JE-FrontEnd/Code formation/japon2012.html</PublishFileName>
+            <PublishIndex>japon2012.html</PublishIndex>
+            <PublishPath>C:/wamp/www/GitHub/Formation-JE-FrontEnd/Code formation</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Nunito</TemplateFont>
+            <TemplateName>dark_matter</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00565.JPG</url>
+                <title>DSC00565</title>
+                <filesize>4736558</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00570.JPG</url>
+                <title>DSC00570</title>
+                <filesize>4089958</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00571.JPG</url>
+                <title>DSC00571</title>
+                <filesize>3472714</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00577.JPG</url>
+                <title>DSC00577</title>
+                <filesize>4495269</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00579.JPG</url>
+                <title>DSC00579</title>
+                <filesize>3635473</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00585.JPG</url>
+                <title>DSC00585</title>
+                <filesize>3959825</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00587.JPG</url>
+                <title>DSC00587</title>
+                <filesize>3017614</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00589.JPG</url>
+                <title>DSC00589</title>
+                <filesize>3497320</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00603.JPG</url>
+                <title>DSC00603</title>
+                <filesize>3518395</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00604.JPG</url>
+                <title>DSC00604</title>
+                <filesize>4969479</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00607.JPG</url>
+                <title>DSC00607</title>
+                <filesize>5729285</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00609.JPG</url>
+                <title>DSC00609</title>
+                <filesize>5867932</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00616.JPG</url>
+                <title>DSC00616</title>
+                <filesize>4681732</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00661.JPG</url>
+                <title>DSC00661</title>
+                <filesize>4403051</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00664.JPG</url>
+                <title>DSC00664</title>
+                <filesize>4569827</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/DSC00689.JPG</url>
+                <title>DSC00689</title>
+                <filesize>3611361</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/FILE0004.JPG</url>
+                <title>FILE0004</title>
+                <filesize>1527845</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/FILE0081.JPG</url>
+                <title>FILE0081</title>
+                <filesize>1463857</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/FILE0083.JPG</url>
+                <title>FILE0083</title>
+                <filesize>1413240</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/FILE0101.JPG</url>
+                <title>FILE0101</title>
+                <filesize>1784566</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/FILE0102.JPG</url>
+                <title>FILE0102</title>
+                <filesize>1608967</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/FILE0120.JPG</url>
+                <title>FILE0120</title>
+                <filesize>1724049</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/FILE0143.JPG</url>
+                <title>FILE0143</title>
+                <filesize>1595746</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Asakusa/FILE0151.JPG</url>
+                <title>FILE0151</title>
+                <filesize>1430111</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

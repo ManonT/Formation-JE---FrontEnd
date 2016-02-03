@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>23</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>mizushima</GalleryName>
+            <GallerySuffix>4</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blur</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/dark_matter/</ImageTemplate>
+            <ImageTemplateName>Dark Matter</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/wamp/www/GitHub/Formation-JE-FrontEnd/Code formation/japon2013.html</PublishFileName>
+            <PublishIndex>japon2013.html</PublishIndex>
+            <PublishPath>C:/wamp/www/GitHub/Formation-JE-FrontEnd/Code formation</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Nunito</TemplateFont>
+            <TemplateName>dark_matter</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0139.JPG</url>
+                <title>FILE0139</title>
+                <filesize>637250</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0141.JPG</url>
+                <title>FILE0141</title>
+                <filesize>2170362</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0142.JPG</url>
+                <title>FILE0142</title>
+                <filesize>2129514</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0143.JPG</url>
+                <title>FILE0143</title>
+                <filesize>2123851</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0144.JPG</url>
+                <title>FILE0144</title>
+                <filesize>1850678</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0146.JPG</url>
+                <title>FILE0146</title>
+                <filesize>2080208</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0147.JPG</url>
+                <title>FILE0147</title>
+                <filesize>1573576</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0149.JPG</url>
+                <title>FILE0149</title>
+                <filesize>1298517</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0151.JPG</url>
+                <title>FILE0151</title>
+                <filesize>2178566</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0152.JPG</url>
+                <title>FILE0152</title>
+                <filesize>1707216</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0153.JPG</url>
+                <title>FILE0153</title>
+                <filesize>1522362</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0155.JPG</url>
+                <title>FILE0155</title>
+                <filesize>1336032</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0157.JPG</url>
+                <title>FILE0157</title>
+                <filesize>2179134</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0158.JPG</url>
+                <title>FILE0158</title>
+                <filesize>2180863</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0160.JPG</url>
+                <title>FILE0160</title>
+                <filesize>1314756</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0164.JPG</url>
+                <title>FILE0164</title>
+                <filesize>2386058</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0166.JPG</url>
+                <title>FILE0166</title>
+                <filesize>2409759</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0168.JPG</url>
+                <title>FILE0168</title>
+                <filesize>2387003</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0169.JPG</url>
+                <title>FILE0169</title>
+                <filesize>1500776</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0171.JPG</url>
+                <title>FILE0171</title>
+                <filesize>2428133</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0175.JPG</url>
+                <title>FILE0175</title>
+                <filesize>1683159</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0176.JPG</url>
+                <title>FILE0176</title>
+                <filesize>1687708</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0177.JPG</url>
+                <title>FILE0177</title>
+                <filesize>1206806</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0178.JPG</url>
+                <title>FILE0178</title>
+                <filesize>1349516</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0180.JPG</url>
+                <title>FILE0180</title>
+                <filesize>1489442</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/3 Mizushima/FILE0181.JPG</url>
+                <title>FILE0181</title>
+                <filesize>1848045</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

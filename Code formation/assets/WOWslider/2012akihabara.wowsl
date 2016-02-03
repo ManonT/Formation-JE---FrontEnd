@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>27</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>2012akihabara</GalleryName>
+            <GallerySuffix>0</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>page</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/prime_time/</ImageTemplate>
+            <ImageTemplateName>Prime Time</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/wamp/www/GitHub/Formation-JE-FrontEnd/Code formation/japon2012.html</PublishFileName>
+            <PublishIndex>japon2012.html</PublishIndex>
+            <PublishPath>C:/wamp/www/GitHub/Formation-JE-FrontEnd/Code formation</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#b3c7e6</TemplateColor>
+            <TemplateFont>Open Sans Condensed</TemplateFont>
+            <TemplateName>prime_time</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01438.JPG</url>
+                <title>DSC01438</title>
+                <filesize>3392444</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01440.JPG</url>
+                <title>DSC01440</title>
+                <filesize>3065068</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01442.JPG</url>
+                <title>DSC01442</title>
+                <filesize>5060101</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01443.JPG</url>
+                <title>DSC01443</title>
+                <filesize>4335564</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01444.JPG</url>
+                <title>DSC01444</title>
+                <filesize>4764162</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01446.JPG</url>
+                <title>DSC01446</title>
+                <filesize>4235479</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01448.JPG</url>
+                <title>DSC01448</title>
+                <filesize>5015034</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01452.JPG</url>
+                <title>DSC01452</title>
+                <filesize>3898823</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01453.JPG</url>
+                <title>DSC01453</title>
+                <filesize>4249625</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01462.JPG</url>
+                <title>DSC01462</title>
+                <filesize>3653886</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01463.JPG</url>
+                <title>DSC01463</title>
+                <filesize>4520815</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01466.JPG</url>
+                <title>DSC01466</title>
+                <filesize>4986013</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01468.JPG</url>
+                <title>DSC01468</title>
+                <filesize>3890839</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01469.JPG</url>
+                <title>DSC01469</title>
+                <filesize>4904443</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01470.JPG</url>
+                <title>DSC01470</title>
+                <filesize>3705734</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01471.JPG</url>
+                <title>DSC01471</title>
+                <filesize>3612937</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01473.JPG</url>
+                <title>DSC01473</title>
+                <filesize>4841160</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01474.JPG</url>
+                <title>DSC01474</title>
+                <filesize>4524588</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01475.JPG</url>
+                <title>DSC01475</title>
+                <filesize>3762254</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01476.JPG</url>
+                <title>DSC01476</title>
+                <filesize>4509707</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01477.JPG</url>
+                <title>DSC01477</title>
+                <filesize>3963642</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01478.JPG</url>
+                <title>DSC01478</title>
+                <filesize>3770338</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01481.JPG</url>
+                <title>DSC01481</title>
+                <filesize>4099158</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2012/Akiabara/DSC01485.JPG</url>
+                <title>DSC01485</title>
+                <filesize>3932514</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

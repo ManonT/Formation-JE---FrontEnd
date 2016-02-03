@@ -1,0 +1,244 @@
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Voyage de Manon </title>
+
+    <!-- feuille de style -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/css/portfolio.css" rel="stylesheet" type="text/css"/>
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	</script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	</script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine3/style.css" />
+	<!--script type="text/javascript" src="engine3/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+
+  <body>
+    <header>
+      <div class="col-sm-offset-1"> <h1> 2013 : Japon <small> Plusieurs destinations. </small> </h1> </div>
+    </header>
+
+    </br>
+
+    <div class="container">
+      <div class"row" id="miyajima">
+        <h2>1ère étape : L'île de Miyajima</h2>
+      </div>
+    </div><!-- /container -->
+
+    </br>
+
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/file0001.jpg" alt="Miyajima" title="Miyajima" id="wows0_0"/></li>
+		<li><img src="data0/images/file0002.jpg" alt="FILE0002" title="FILE0002" id="wows0_1"/></li>
+		<li><img src="data0/images/file0003.jpg" alt="FILE0003" title="FILE0003" id="wows0_2"/></li>
+		<li><img src="data0/images/file0004.jpg" alt="FILE0004" title="FILE0004" id="wows0_3"/></li>
+		<li><img src="data0/images/file0005.jpg" alt="FILE0005" title="FILE0005" id="wows0_4"/></li>
+		<li><img src="data0/images/file0007.jpg" alt="FILE0007" title="FILE0007" id="wows0_5"/></li>
+		<li><img src="data0/images/file0008.jpg" alt="FILE0008" title="FILE0008" id="wows0_6"/></li>
+		<li><img src="data0/images/file0011.jpg" alt="FILE0011" title="FILE0011" id="wows0_7"/></li>
+		<li><img src="data0/images/file0013.jpg" alt="FILE0013" title="FILE0013" id="wows0_8"/></li>
+		<li><img src="data0/images/file0015.jpg" alt="FILE0015" title="FILE0015" id="wows0_9"/></li>
+		<li><img src="data0/images/file0018.jpg" alt="FILE0018" title="FILE0018" id="wows0_10"/></li>
+		<li><img src="data0/images/file0019.jpg" alt="FILE0019" title="FILE0019" id="wows0_11"/></li>
+		<li><img src="data0/images/file0020.jpg" alt="FILE0020" title="FILE0020" id="wows0_12"/></li>
+		<li><img src="data0/images/file0021.jpg" alt="FILE0021" title="FILE0021" id="wows0_13"/></li>
+		<li><img src="data0/images/file0022.jpg" alt="FILE0022" title="FILE0022" id="wows0_14"/></li>
+		<li><img src="data0/images/file0023.jpg" alt="FILE0023" title="FILE0023" id="wows0_15"/></li>
+		<li><img src="data0/images/file0024.jpg" alt="FILE0024" title="FILE0024" id="wows0_16"/></li>
+		<li><img src="data0/images/file0025.jpg" alt="FILE0025" title="FILE0025" id="wows0_17"/></li>
+		<li><img src="data0/images/file0026.jpg" alt="FILE0026" title="FILE0026" id="wows0_18"/></li>
+		<li><img src="data0/images/file0027.jpg" alt="FILE0027" title="FILE0027" id="wows0_19"/></li>
+		<li><img src="data0/images/file0030.jpg" alt="FILE0030" title="FILE0030" id="wows0_20"/></li>
+		<li><img src="data0/images/file0033.jpg" alt="FILE0033" title="FILE0033" id="wows0_21"/></li>
+		<li><img src="data0/images/file0037.jpg" alt="FILE0037" title="FILE0037" id="wows0_22"/></li>
+		<li><img src="data0/images/file0046.jpg" alt="FILE0046" title="FILE0046" id="wows0_23"/></li>
+		<li><img src="data0/images/file0047.jpg" alt="FILE0047" title="FILE0047" id="wows0_24"/></li>
+		<li><img src="data0/images/file0054.jpg" alt="FILE0054" title="FILE0054" id="wows0_25"/></li>
+		<li><img src="data0/images/file0056.jpg" alt="FILE0056" title="FILE0056" id="wows0_26"/></li>
+		<li><img src="data0/images/file0057.jpg" alt="FILE0057" title="FILE0057" id="wows0_27"/></li>
+		<li><img src="data0/images/file0059.jpg" alt="FILE0059" title="FILE0059" id="wows0_28"/></li>
+		<li><a href="http://wowslider.com"><img src="data0/images/file0060.jpg" alt="http://wowslider.com/" title="FILE0060" id="wows0_29"/></a></li>
+		<li><img src="data0/images/file0061.jpg" alt="FILE0061" title="FILE0061" id="wows0_30"/></li>
+	</ul></div>
+	<div class="ws_thumbs">
+<div>
+		<a href="#" title="Miyajima"><img src="data0/tooltips/file0001.jpg" alt="" /></a>
+		<a href="#" title="FILE0002"><img src="data0/tooltips/file0002.jpg" alt="" /></a>
+		<a href="#" title="FILE0003"><img src="data0/tooltips/file0003.jpg" alt="" /></a>
+		<a href="#" title="FILE0004"><img src="data0/tooltips/file0004.jpg" alt="" /></a>
+		<a href="#" title="FILE0005"><img src="data0/tooltips/file0005.jpg" alt="" /></a>
+		<a href="#" title="FILE0007"><img src="data0/tooltips/file0007.jpg" alt="" /></a>
+		<a href="#" title="FILE0008"><img src="data0/tooltips/file0008.jpg" alt="" /></a>
+		<a href="#" title="FILE0011"><img src="data0/tooltips/file0011.jpg" alt="" /></a>
+		<a href="#" title="FILE0013"><img src="data0/tooltips/file0013.jpg" alt="" /></a>
+		<a href="#" title="FILE0015"><img src="data0/tooltips/file0015.jpg" alt="" /></a>
+		<a href="#" title="FILE0018"><img src="data0/tooltips/file0018.jpg" alt="" /></a>
+		<a href="#" title="FILE0019"><img src="data0/tooltips/file0019.jpg" alt="" /></a>
+		<a href="#" title="FILE0020"><img src="data0/tooltips/file0020.jpg" alt="" /></a>
+		<a href="#" title="FILE0021"><img src="data0/tooltips/file0021.jpg" alt="" /></a>
+		<a href="#" title="FILE0022"><img src="data0/tooltips/file0022.jpg" alt="" /></a>
+		<a href="#" title="FILE0023"><img src="data0/tooltips/file0023.jpg" alt="" /></a>
+		<a href="#" title="FILE0024"><img src="data0/tooltips/file0024.jpg" alt="" /></a>
+		<a href="#" title="FILE0025"><img src="data0/tooltips/file0025.jpg" alt="" /></a>
+		<a href="#" title="FILE0026"><img src="data0/tooltips/file0026.jpg" alt="" /></a>
+		<a href="#" title="FILE0027"><img src="data0/tooltips/file0027.jpg" alt="" /></a>
+		<a href="#" title="FILE0030"><img src="data0/tooltips/file0030.jpg" alt="" /></a>
+		<a href="#" title="FILE0033"><img src="data0/tooltips/file0033.jpg" alt="" /></a>
+		<a href="#" title="FILE0037"><img src="data0/tooltips/file0037.jpg" alt="" /></a>
+		<a href="#" title="FILE0046"><img src="data0/tooltips/file0046.jpg" alt="" /></a>
+		<a href="#" title="FILE0047"><img src="data0/tooltips/file0047.jpg" alt="" /></a>
+		<a href="#" title="FILE0054"><img src="data0/tooltips/file0054.jpg" alt="" /></a>
+		<a href="#" title="FILE0056"><img src="data0/tooltips/file0056.jpg" alt="" /></a>
+		<a href="#" title="FILE0057"><img src="data0/tooltips/file0057.jpg" alt="" /></a>
+		<a href="#" title="FILE0059"><img src="data0/tooltips/file0059.jpg" alt="" /></a>
+		<a href="#" title="FILE0060"><img src="data0/tooltips/file0060.jpg" alt="" /></a>
+		<a href="#" title="FILE0061"><img src="data0/tooltips/file0061.jpg" alt="" /></a>
+	</div>
+</div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery carousel</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+
+</br>
+
+<div class="container">
+  <div class"row" id="miyajima">
+    <h2>2ème étape : Hiroshima</h2>
+  </div>
+</div><!-- /container -->
+
+</br>
+
+
+
+
+
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container3">
+	<div class="ws_images"><ul>
+		<li><img src="data3/images/file0062.jpg" alt="FILE0062" title="FILE0062" id="wows3_0"/></li>
+		<li><img src="data3/images/file0063.jpg" alt="FILE0063" title="FILE0063" id="wows3_1"/></li>
+		<li><img src="data3/images/file0065.jpg" alt="FILE0065" title="FILE0065" id="wows3_2"/></li>
+		<li><img src="data3/images/file0066.jpg" alt="FILE0066" title="FILE0066" id="wows3_3"/></li>
+		<li><img src="data3/images/file0069.jpg" alt="FILE0069" title="FILE0069" id="wows3_4"/></li>
+		<li><img src="data3/images/file0070.jpg" alt="FILE0070" title="FILE0070" id="wows3_5"/></li>
+		<li><img src="data3/images/file0073.jpg" alt="FILE0073" title="FILE0073" id="wows3_6"/></li>
+		<li><img src="data3/images/file0074.jpg" alt="FILE0074" title="FILE0074" id="wows3_7"/></li>
+		<li><img src="data3/images/file0075.jpg" alt="FILE0075" title="FILE0075" id="wows3_8"/></li>
+		<li><img src="data3/images/file0077.jpg" alt="FILE0077" title="FILE0077" id="wows3_9"/></li>
+		<li><img src="data3/images/file0078.jpg" alt="FILE0078" title="FILE0078" id="wows3_10"/></li>
+		<li><img src="data3/images/file0080.jpg" alt="FILE0080" title="FILE0080" id="wows3_11"/></li>
+		<li><img src="data3/images/file0081.jpg" alt="FILE0081" title="FILE0081" id="wows3_12"/></li>
+		<li><img src="data3/images/file0085.jpg" alt="FILE0085" title="FILE0085" id="wows3_13"/></li>
+		<li><img src="data3/images/file0086.jpg" alt="FILE0086" title="FILE0086" id="wows3_14"/></li>
+		<li><img src="data3/images/file0087.jpg" alt="FILE0087" title="FILE0087" id="wows3_15"/></li>
+		<li><img src="data3/images/file0091.jpg" alt="FILE0091" title="FILE0091" id="wows3_16"/></li>
+		<li><img src="data3/images/file0092.jpg" alt="FILE0092" title="FILE0092" id="wows3_17"/></li>
+		<li><img src="data3/images/file0093.jpg" alt="FILE0093" title="FILE0093" id="wows3_18"/></li>
+		<li><img src="data3/images/file0094.jpg" alt="FILE0094" title="FILE0094" id="wows3_19"/></li>
+		<li><img src="data3/images/file0096.jpg" alt="FILE0096" title="FILE0096" id="wows3_20"/></li>
+		<li><img src="data3/images/file0104.jpg" alt="FILE0104" title="FILE0104" id="wows3_21"/></li>
+		<li><img src="data3/images/file0106.jpg" alt="FILE0106" title="FILE0106" id="wows3_22"/></li>
+		<li><img src="data3/images/file0109.jpg" alt="FILE0109" title="FILE0109" id="wows3_23"/></li>
+		<li><img src="data3/images/file0116.jpg" alt="FILE0116" title="FILE0116" id="wows3_24"/></li>
+		<li><img src="data3/images/file0119.jpg" alt="FILE0119" title="FILE0119" id="wows3_25"/></li>
+		<li><img src="data3/images/file0120.jpg" alt="FILE0120" title="FILE0120" id="wows3_26"/></li>
+		<li><img src="data3/images/file0121.jpg" alt="FILE0121" title="FILE0121" id="wows3_27"/></li>
+		<li><img src="data3/images/file0122.jpg" alt="FILE0122" title="FILE0122" id="wows3_28"/></li>
+		<li><img src="data3/images/file0123.jpg" alt="FILE0123" title="FILE0123" id="wows3_29"/></li>
+		<li><a href="http://wowslider.net"><img src="data3/images/file0126.jpg" alt="wowslider.net" title="FILE0126" id="wows3_30"/></a></li>
+		<li><img src="data3/images/file0129.jpg" alt="FILE0129" title="FILE0129" id="wows3_31"/></li>
+	</ul></div>
+	<div class="ws_thumbs">
+<div>
+		<a href="#" title="FILE0062"><img src="data3/tooltips/file0062.jpg" alt="" /></a>
+		<a href="#" title="FILE0063"><img src="data3/tooltips/file0063.jpg" alt="" /></a>
+		<a href="#" title="FILE0065"><img src="data3/tooltips/file0065.jpg" alt="" /></a>
+		<a href="#" title="FILE0066"><img src="data3/tooltips/file0066.jpg" alt="" /></a>
+		<a href="#" title="FILE0069"><img src="data3/tooltips/file0069.jpg" alt="" /></a>
+		<a href="#" title="FILE0070"><img src="data3/tooltips/file0070.jpg" alt="" /></a>
+		<a href="#" title="FILE0073"><img src="data3/tooltips/file0073.jpg" alt="" /></a>
+		<a href="#" title="FILE0074"><img src="data3/tooltips/file0074.jpg" alt="" /></a>
+		<a href="#" title="FILE0075"><img src="data3/tooltips/file0075.jpg" alt="" /></a>
+		<a href="#" title="FILE0077"><img src="data3/tooltips/file0077.jpg" alt="" /></a>
+		<a href="#" title="FILE0078"><img src="data3/tooltips/file0078.jpg" alt="" /></a>
+		<a href="#" title="FILE0080"><img src="data3/tooltips/file0080.jpg" alt="" /></a>
+		<a href="#" title="FILE0081"><img src="data3/tooltips/file0081.jpg" alt="" /></a>
+		<a href="#" title="FILE0085"><img src="data3/tooltips/file0085.jpg" alt="" /></a>
+		<a href="#" title="FILE0086"><img src="data3/tooltips/file0086.jpg" alt="" /></a>
+		<a href="#" title="FILE0087"><img src="data3/tooltips/file0087.jpg" alt="" /></a>
+		<a href="#" title="FILE0091"><img src="data3/tooltips/file0091.jpg" alt="" /></a>
+		<a href="#" title="FILE0092"><img src="data3/tooltips/file0092.jpg" alt="" /></a>
+		<a href="#" title="FILE0093"><img src="data3/tooltips/file0093.jpg" alt="" /></a>
+		<a href="#" title="FILE0094"><img src="data3/tooltips/file0094.jpg" alt="" /></a>
+		<a href="#" title="FILE0096"><img src="data3/tooltips/file0096.jpg" alt="" /></a>
+		<a href="#" title="FILE0104"><img src="data3/tooltips/file0104.jpg" alt="" /></a>
+		<a href="#" title="FILE0106"><img src="data3/tooltips/file0106.jpg" alt="" /></a>
+		<a href="#" title="FILE0109"><img src="data3/tooltips/file0109.jpg" alt="" /></a>
+		<a href="#" title="FILE0116"><img src="data3/tooltips/file0116.jpg" alt="" /></a>
+		<a href="#" title="FILE0119"><img src="data3/tooltips/file0119.jpg" alt="" /></a>
+		<a href="#" title="FILE0120"><img src="data3/tooltips/file0120.jpg" alt="" /></a>
+		<a href="#" title="FILE0121"><img src="data3/tooltips/file0121.jpg" alt="" /></a>
+		<a href="#" title="FILE0122"><img src="data3/tooltips/file0122.jpg" alt="" /></a>
+		<a href="#" title="FILE0123"><img src="data3/tooltips/file0123.jpg" alt="" /></a>
+		<a href="#" title="FILE0126"><img src="data3/tooltips/file0126.jpg" alt="" /></a>
+		<a href="#" title="FILE0129"><img src="data3/tooltips/file0129.jpg" alt="" /></a>
+	</div>
+</div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">jquery carousel</a> by WOWSlider.com v8.7</div>
+	<div class="ws_shadow"></div>
+	</div>
+	<script type="text/javascript" src="engine3/wowslider.js"></script>
+	<script type="text/javascript" src="engine3/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+
+    </br>
+
+    <div class="container">
+      <div class"row" id="mizushima">
+        <h2>3ème étape : Mizushima</h2>
+      </div>
+    </div><!-- /container -->
+
+    </br>
+
+    
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<footer>
+      <div class="row">
+        <nav class="navbar navbar-default navbar-fixed-bottom navbar-left">
+          <div class="container">
+            <a href="index.html"> Accueil </a>
+            <a href="cv.html"> CV </a>
+            <a href="projet.html"> Projet </a>
+            <a href="#"> Certificat </a>
+            <a href="ecriture.html"> Ecriture </a>
+            <a href="voyage.html"> Voyage </a>
+          </div><!-- /container -->
+        </nav>
+      </div><!-- /row -->
+    </footer>
+
+    <!-- Appel à un fichier Javascript -->
+    <script src="https://ajax.googleapis.com/libs/jquery/1.11.3/jquery.min.js"> </script>
+    <script src="assets/js/bootstrap.min.js" type="text/javascript"> </script>
+    <script src="assets/js/vertT.js" type="text/javascript"> </script>
+
+  </body>
+</html>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>move</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>30</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>miyajima</GalleryName>
+            <GallerySuffix>0</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>book</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/book/</ImageTemplate>
+            <ImageTemplateName>Book</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/wamp/www/GitHub/Formation-JE-FrontEnd/Code formation/japon2013.html</PublishFileName>
+            <PublishIndex>japon2013.html</PublishIndex>
+            <PublishPath>C:/wamp/www/GitHub/Formation-JE-FrontEnd/Code formation</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#664b2b</TemplateColor>
+            <TemplateFont>Marck Script</TemplateFont>
+            <TemplateName>book</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0001.JPG</url>
+                <title>Miyajima</title>
+                <filesize>877201</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0002.JPG</url>
+                <title>FILE0002</title>
+                <filesize>1024476</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0003.JPG</url>
+                <title>FILE0003</title>
+                <filesize>1292236</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0004.JPG</url>
+                <title>FILE0004</title>
+                <filesize>1295077</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0005.JPG</url>
+                <title>FILE0005</title>
+                <filesize>1195882</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0007.JPG</url>
+                <title>FILE0007</title>
+                <filesize>1503687</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0008.JPG</url>
+                <title>FILE0008</title>
+                <filesize>1848105</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0011.JPG</url>
+                <title>FILE0011</title>
+                <filesize>1805716</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0013.JPG</url>
+                <title>FILE0013</title>
+                <filesize>1389044</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0015.JPG</url>
+                <title>FILE0015</title>
+                <filesize>1387433</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0018.JPG</url>
+                <title>FILE0018</title>
+                <filesize>1567902</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0019.JPG</url>
+                <title>FILE0019</title>
+                <filesize>1808097</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0020.JPG</url>
+                <title>FILE0020</title>
+                <filesize>1681398</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0021.JPG</url>
+                <title>FILE0021</title>
+                <filesize>1119954</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0022.JPG</url>
+                <title>FILE0022</title>
+                <filesize>1748240</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0023.JPG</url>
+                <title>FILE0023</title>
+                <filesize>1833908</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0024.JPG</url>
+                <title>FILE0024</title>
+                <filesize>1473188</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0025.JPG</url>
+                <title>FILE0025</title>
+                <filesize>1773671</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0026.JPG</url>
+                <title>FILE0026</title>
+                <filesize>1208738</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0027.JPG</url>
+                <title>FILE0027</title>
+                <filesize>1640101</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0030.JPG</url>
+                <title>FILE0030</title>
+                <filesize>1014181</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0033.JPG</url>
+                <title>FILE0033</title>
+                <filesize>1623111</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0037.JPG</url>
+                <title>FILE0037</title>
+                <filesize>1200619</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0046.JPG</url>
+                <title>FILE0046</title>
+                <filesize>1577814</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0047.JPG</url>
+                <title>FILE0047</title>
+                <filesize>1411910</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0054.JPG</url>
+                <title>FILE0054</title>
+                <filesize>1808889</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0056.JPG</url>
+                <title>FILE0056</title>
+                <filesize>1939713</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0057.JPG</url>
+                <title>FILE0057</title>
+                <filesize>1855555</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0059.JPG</url>
+                <title>FILE0059</title>
+                <filesize>1828174</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0060.JPG</url>
+                <title>FILE0060</title>
+                <filesize>1649904</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/1 Miyajima/FILE0061.JPG</url>
+                <title>FILE0061</title>
+                <filesize>1918120</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

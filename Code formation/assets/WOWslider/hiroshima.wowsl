@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>27</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>hiroshima</GalleryName>
+            <GallerySuffix>3</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/vernisage/</ImageTemplate>
+            <ImageTemplateName>Vernisage</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/wamp/www/GitHub/Formation-JE-FrontEnd/Code formation/japon2013.html</PublishFileName>
+            <PublishIndex>japon2013.html</PublishIndex>
+            <PublishPath>C:/wamp/www/GitHub/Formation-JE-FrontEnd/Code formation</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#959695</TemplateColor>
+            <TemplateFont>Economica</TemplateFont>
+            <TemplateName>vernisage</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0062.JPG</url>
+                <title>FILE0062</title>
+                <filesize>2023395</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0063.JPG</url>
+                <title>FILE0063</title>
+                <filesize>2312836</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0065.JPG</url>
+                <title>FILE0065</title>
+                <filesize>767588</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0066.JPG</url>
+                <title>FILE0066</title>
+                <filesize>1562273</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0069.JPG</url>
+                <title>FILE0069</title>
+                <filesize>1241838</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0070.JPG</url>
+                <title>FILE0070</title>
+                <filesize>1575572</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0073.JPG</url>
+                <title>FILE0073</title>
+                <filesize>2203550</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0074.JPG</url>
+                <title>FILE0074</title>
+                <filesize>1666161</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0075.JPG</url>
+                <title>FILE0075</title>
+                <filesize>1840608</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0077.JPG</url>
+                <title>FILE0077</title>
+                <filesize>1674273</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0078.JPG</url>
+                <title>FILE0078</title>
+                <filesize>1739829</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0080.JPG</url>
+                <title>FILE0080</title>
+                <filesize>1661921</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0081.JPG</url>
+                <title>FILE0081</title>
+                <filesize>1837967</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0085.JPG</url>
+                <title>FILE0085</title>
+                <filesize>1814770</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0086.JPG</url>
+                <title>FILE0086</title>
+                <filesize>1587115</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0087.JPG</url>
+                <title>FILE0087</title>
+                <filesize>1884134</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0091.JPG</url>
+                <title>FILE0091</title>
+                <filesize>2158566</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0092.JPG</url>
+                <title>FILE0092</title>
+                <filesize>1699686</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0093.JPG</url>
+                <title>FILE0093</title>
+                <filesize>1815864</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0094.JPG</url>
+                <title>FILE0094</title>
+                <filesize>2070749</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0096.JPG</url>
+                <title>FILE0096</title>
+                <filesize>1525270</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0104.JPG</url>
+                <title>FILE0104</title>
+                <filesize>2110242</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0106.JPG</url>
+                <title>FILE0106</title>
+                <filesize>1797493</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0109.JPG</url>
+                <title>FILE0109</title>
+                <filesize>1487254</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0116.JPG</url>
+                <title>FILE0116</title>
+                <filesize>710622</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0119.JPG</url>
+                <title>FILE0119</title>
+                <filesize>1823483</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0120.JPG</url>
+                <title>FILE0120</title>
+                <filesize>1140764</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0121.JPG</url>
+                <title>FILE0121</title>
+                <filesize>1011324</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0122.JPG</url>
+                <title>FILE0122</title>
+                <filesize>1209418</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0123.JPG</url>
+                <title>FILE0123</title>
+                <filesize>1957291</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0126.JPG</url>
+                <title>FILE0126</title>
+                <filesize>1409813</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Miyuki/Pictures/Photos Japon/2013/2 Hiroshima/FILE0129.JPG</url>
+                <title>FILE0129</title>
+                <filesize>1266167</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
